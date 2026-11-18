@@ -2,6 +2,10 @@
 
 A simple graphical calculator built with **C#** and **Windows Forms**. It provides the four basic arithmetic operations, chained calculations, keyboard support, and a modern dark-themed interface.
 
+## Screenshot
+
+![Calculatrice graphical calculator](../Calculator.png)
+
 ## Features
 
 - Basic operations: addition (`+`), subtraction (`−`), multiplication (`×`), and division (`÷`)

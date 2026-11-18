@@ -12,3 +12,4 @@ C:\Users\abdel\OneDrive\Bureau\.Net\calculatrice graphique\Calculatrice\obj\Debu
 C:\Users\abdel\OneDrive\Bureau\.Net\calculatrice graphique\Calculatrice\obj\Debug\net10.0-windows\Calculatrice.pdb
 C:\Users\abdel\OneDrive\Bureau\.Net\calculatrice graphique\Calculatrice\obj\Debug\net10.0-windows\Calculatrice.genruntimeconfig.cache
 C:\Users\abdel\OneDrive\Bureau\.Net\calculatrice graphique\Calculatrice\obj\Debug\net10.0-windows\ref\Calculatrice.dll
+C:\Users\abdel\OneDrive\Bureau\.Net\calculatrice graphique\Calculatrice\obj\Debug\net10.0-windows\Calculatrice.sourcelink.json
